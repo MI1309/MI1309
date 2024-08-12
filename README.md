@@ -1,15 +1,23 @@
-## Hi there 👋
+# Hello, I'm John Smith! 👋
 
+I'm a passionate developer with experience in:
 
-**MI1412/MI1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Web Development**: JavaScript, React, Node.js
+- **Data Science**: Python, Pandas, Machine Learning
+- **DevOps**: Docker, Kubernetes, CI/CD
 
-Here are some ideas to get you started:
+## 📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&hide_title=true)
+
+## 🌟 My Top Repositories
+
+[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=johnsmith&repo=repo-name)](https://github.com/johnsmith/repo-name)
+
+## 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/johnsmith)
+- [Twitter](https://twitter.com/johnsmith)
+- [Personal Blog](https://johnsmith.dev)
+
+Thank you for visiting my profile!
