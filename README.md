@@ -8,11 +8,11 @@ I'm a passionate developer with experience in:
 
 ## 📈 My GitHub Stats
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&hide_title=true)
+![MI1412's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mi1412&show_icons=true&hide_title=true)
 
 ## 🌟 My Top Repositories
 
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=johnsmith&repo=repo-name)](https://github.com/johnsmith/repo-name)
+[![Belajar Git](https://github-readme-stats.vercel.app/api/pin/?username=johnsmith&repo=repo-name)](https://github.com/johnsmith/repo-name)
 
 ## 📫 Get in Touch
 
