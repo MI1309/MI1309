@@ -16,8 +16,8 @@ I'm a passionate developer with experience in:
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/johnsmith)
-- [Twitter](https://twitter.com/johnsmith)
-- [Personal Blog](https://johnsmith.dev)
+- [Instagram](https://www.instagram.com/in/)
+<!--- [Twitter](https://twitter.com/johnsmith)
+<!--- [Personal Blog](https://.dev)-->
 
 Thank you for visiting my profile!
