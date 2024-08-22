@@ -1,10 +1,12 @@
 # Assalamualaikum Wr Wb! 👋
 
-I'm a passionate developer with experience in:
+<!--I'm a passionate developer with experience in:
 
 - **Web Development**: JavaScript, React, Node.js
 - **Data Science**: Python, Pandas, Machine Learning
-- **DevOps**: Docker, Kubernetes, CI/CD
+- **DevOps**: Docker, Kubernetes, CI/CD-->
+- **MyName**: Muhammad Imron
+- **HOBY**: Ngulik Software
 
 ## 📈 My GitHub Stats
 
