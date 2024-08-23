@@ -18,7 +18,7 @@
 
 ## 📫 Get in Touch
 
-- [Instagram](https://www.instagram.com/in/)
+- [Instagram](https://www.instagram.com/imron_dev/)
 <!--- [Twitter](https://twitter.com/johnsmith)
 <!--- [Personal Blog](https://.dev)-->
 
