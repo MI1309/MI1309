@@ -19,7 +19,7 @@
 ## 📫 Get in Touch
 
 - [Instagram](https://www.instagram.com/imron_dev/)
-<!--- [Twitter](https://twitter.com/johnsmith)
+- [Twitter](https://x.com/imronm1309)
 <!--- [Personal Blog](https://.dev)-->
 
 Thank you for visiting my profile!
