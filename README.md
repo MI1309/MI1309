@@ -12,18 +12,21 @@ I love learning about new technologies and sharing knowledge with the community.
 - **Hobbies**: Exploring software and tinkering with technology  
 
 ### Skills  
-- **Web Development**: Flask, Django, Python, Scss  
+- **Web Development**: Flask, Django, Python, Scss
+- **Scripting**: Bash
 - <!--**Data Science**: Python, Pandas, Machine Learning   
 
 ---
 
 <!-- Tools -->
-## 🛠 Tools I Use  
+## 🛠 Tools Yang Sering Digunakan
 ![flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat-square&logo=flask&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-0b0b0b?style=flat-square&logo=django&logoColor=green)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Scss](https://img.shields.io/badge/-Scss-FFFFFF?style=flat-square&logo=sass)
+![Vs Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FFFFF0?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-Github-0b0b0b?style=flat-square&logo=github)
 
 ---
 
@@ -36,14 +39,14 @@ I love learning about new technologies and sharing knowledge with the community.
 
 <!-- Top Repositories -->
 ## 🌟 My Top Repositories  
-[![SaveHere](https://github-readme-stats.vercel.app/api/pin/?username=mi1412&repo=SaveHere&theme=radical)](https://github.com/mi1412/SaveHere) 
+[![SaveHere](https://github-readme-stats.vercel.app/api/pin/?username=mi1412&repo=SaveHere&theme=radical)]
 
 ---
 
 <!-- Connect with me -->
 ## 📫 Get in Touch  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imron_dev/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/imronm1309)  
+[![Twitter](https://img.shields.io/badge/-X-FFFFFF?style=flat-square&logo=x&logoColor=black)](https://x.com/imronm1309)  
 
 ---
 
