@@ -39,7 +39,7 @@ I love learning about new technologies and sharing knowledge with the community.
 
 <!-- Top Repositories -->
 ## 🌟 My Top Repositories  
-[![SaveHere](https://github-readme-stats.vercel.app/api/pin/?username=mi1412&repo=Script-shell&theme=radical)]
+[![SaveHere](https://github-readme-stats.vercel.app/api/pin/?username=mi1412&repo=Script-shell&theme=radical)](https://github.com/MI1412/Script-shell)
 
 ---
 
