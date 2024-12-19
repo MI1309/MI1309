@@ -31,8 +31,8 @@ I love learning about new technologies and sharing knowledge with the community.
 
 <!-- GitHub Stats -->
 ## 📈 My GitHub Stats  
-![MI1412's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mi1412&show_icons=true&hide_title=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mi1412&layout=compact&theme=radical)
+![MI1309's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mi1309&show_icons=true&hide_title=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mi1309&layout=compact&theme=radical)
 
 ---
 
@@ -45,7 +45,7 @@ I love learning about new technologies and sharing knowledge with the community.
 -->
 <!-- Connect with me -->
 ## 📫 Get in Touch  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imron_dev/)  [![Twitter](https://img.shields.io/badge/-X-FFFFFF?style=flat-square&logo=x&logoColor=black)](https://x.com/imronm1309/) [![Facebook](https://img.shields.io/badge/-Facebook-FFFFFF?style=flat-square&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100071724085686) [![github](https://img.shields.io/badge/-Github-0b0b0b?style=flat-square&logo=github)](https://github.com/MI1412/) [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-imron-28a371289)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imron_dev/)  [![Twitter](https://img.shields.io/badge/-X-FFFFFF?style=flat-square&logo=x&logoColor=black)](https://x.com/imronm1309/) [![Facebook](https://img.shields.io/badge/-Facebook-FFFFFF?style=flat-square&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100071724085686) [![github](https://img.shields.io/badge/-Github-0b0b0b?style=flat-square&logo=github)](https://github.com/mi1309/) [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-imron-28a371289)
 
 
 ---
