@@ -23,7 +23,6 @@ I love learning about new technologies and sharing knowledge with the community.
 ![flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat-square&logo=flask&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-0b0b0b?style=flat-square&logo=django&logoColor=green)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scss](https://img.shields.io/badge/-Scss-FFFFFF?style=flat-square&logo=sass)
 ![Vs Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFFFF0?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-0b0b0b?style=flat-square&logo=github)
