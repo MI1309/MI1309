@@ -46,7 +46,7 @@ I love learning about new technologies and sharing knowledge with the community.
 <!-- Connect with me -->
 ## 📫 Get in Touch  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/imron_dev/)  [![Twitter](https://img.shields.io/badge/-X-FFFFFF?style=flat-square&logo=x&logoColor=black)](https://x.com/imronm1309/) [![Facebook](https://img.shields.io/badge/-Facebook-FFFFFF?style=flat-square&logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100071724085686) [![github](https://img.shields.io/badge/-Github-0b0b0b?style=flat-square&logo=github)](https://github.com/mi1309/) [![linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-imron-28a371289)
-[![MI1309](https://discord.c99.nl/widget/theme-1/775363892167573535.png)](https://discord.com/users/775363892167573535) 
+<!--[![MI1309](https://discord.c99.nl/widget/theme-1/775363892167573535.png)](https://discord.com/users/775363892167573535) -->
 
 ---
 
