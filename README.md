@@ -50,4 +50,7 @@ I love learning about new technologies and sharing knowledge with the community.
 
 ---
 
+## Status Learning On Roadmap
+[![roadmap.sh](https://roadmap.sh/card/wide/64e09945ced78d29352ae927?variant=light&roadmaps=frontend%2Cbackend%2Cjavascript%2Cpython)](https://roadmap.sh)
+
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me! 🚀
