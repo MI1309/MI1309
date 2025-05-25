@@ -13,8 +13,7 @@ I'm a passionate software developer with hands-on experience in building web app
 <!-- ![availability](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat-square) -->
 
 ### Skills  
-- **Web Development**: Flask, Django, Python, Scss
-- **Scripting**: Bash
+- **Web Development**: Flask, Django, Python, Scss, Bootstrap
 - <!--**Data Science**: Python, Pandas, Machine Learning   
 
 ---
