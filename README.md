@@ -1,15 +1,16 @@
 <!-- Introduction -->
 # Hi 👋 I'm Muhammad Imron
 ##
-I'm a passionate developer with experience in building efficient, scalable, and modern applications.  
-I love learning about new technologies and sharing knowledge with the community.
+I'm a passionate software developer with hands-on experience in building web applications and writing scripts for efficient, scalable, and modern automation. I’m enthusiastic about learning new tools and contributing to impactful projects through clean, maintainable code.
 
 ---
 
 <!-- Bio -->
 ## About Me  
 - **Name**: Muhammad Imron  
-- **Hobbies**: Exploring software and tinkering with technology  
+- **Hobbies**: Exploring software and tinkering with technology
+  
+<!-- ![availability](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat-square) -->
 
 ### Skills  
 - **Web Development**: Flask, Django, Python, Scss
@@ -22,6 +23,8 @@ I love learning about new technologies and sharing knowledge with the community.
 ## 🛠 Tools Yang Sering Digunakan
 ![flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat-square&logo=flask&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-0b0b0b?style=flat-square&logo=django&logoColor=green)
+![js](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=yellow)
+![nodejs](https://img.shields.io/badge/-NodeJs-FFFFFF?style=flat-square&logo=node.js&logoColor=green)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vs Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFFFF0?style=flat-square&logo=git)
